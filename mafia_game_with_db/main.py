@@ -3,7 +3,7 @@ from telebot import TeleBot, types
 from time import sleep
 from info_messages import *
 
-TOKEN = '6506535763:AAFat7vLpzRVrulinQhOtqxkqQMkczDAVEc'
+TOKEN = ''
 bot = TeleBot(TOKEN)
 game: bool = False
 night: bool  = True
